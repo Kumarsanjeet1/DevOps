@@ -21,7 +21,7 @@ Computer A ![network](https://user-images.githubusercontent.com/89514486/1532113
     °Afterwards, more & more computers also centers were added and still using protocal (TCP/IP) for communicate.
    ![image](https://user-images.githubusercontent.com/89514486/153469348-905beeac-870d-4d16-aa1c-d502fcce2664.png)
       
-    °Many people wanted to share the research project & stuff, which was not really working in thid domain.
+    °Many people wanted to share the research project & stuff, which was not really working in this domain.
          Actually things happend is that the I wanna send the research project Documentation from "Mit" to "Standford" and in the document there was some sort of other document which is interlinked with hyperlink. This was ![image](https://user-images.githubusercontent.com/89514486/153749741-da2ed24b-f28a-4310-b1fa-cfe76e9bf97a.png) the things was we missed in it, we are not able to access the other some documentation, which is in hyperlink.
          Then Here comes "WWW".
   #     ![image](https://user-images.githubusercontent.com/89514486/153472303-3b779ddc-b50e-4f1f-9b43-dd64f327d706.png)
@@ -43,15 +43,18 @@ Computer A ![network](https://user-images.githubusercontent.com/89514486/1532113
           Examples of Protocols:- TCP/IP , UDP, e.t.c.
       
   #        ![image](https://user-images.githubusercontent.com/89514486/153749897-0ccef9d3-9df8-40ed-ae33-e1eb08657716.png)(Transmission Control Protocol)
+    :- The idea is it will ensure that the data will reach it's destination and it will not be corrupted on the ways.
 
 
 
 
 #          ![image](https://user-images.githubusercontent.com/89514486/153749939-e77402c4-a113-44df-b777-7070f7483f06.png)(User Datagram Protocol)
+    :- When you do not care about 100% of data is reaching or not whom ever want to send the data.
+                 For example- Video Conferencing.
 
 
 #          ![image](https://user-images.githubusercontent.com/89514486/153749964-1ab53c67-12ac-492c-8fef-beb70bbff344.png)(HyperText Transfer Protocol) 
-
+    :- This the used by Web browser. It defined the format of the data is being transfer between Client and Servers.
 
 ![image](https://user-images.githubusercontent.com/89514486/153750027-b59b7c21-bae4-4c8f-bc86-dc2fadb6a7ec.png)
 
