@@ -1,5 +1,7 @@
 #
-![image](https://user-images.githubusercontent.com/89514486/153136311-f0de1147-c3bc-4e89-aafa-6ca908731aa6.png) ![image](https://user-images.githubusercontent.com/89514486/153139166-f5f99c72-19c0-4887-a1be-df30f6f38c1b.png)
+ <a href="https://github.com/Kumarsanjeet1/DevOps">
+  <img alt="DevOps" src="https://user-images.githubusercontent.com/89514486/153136311-f0de1147-c3bc-4e89-aafa-6ca908731aa6.png">  </a>
+   <img alt="DevOps" src="https://user-images.githubusercontent.com/89514486/153139166-f5f99c72-19c0-4887-a1be-df30f6f38c1b.png">
 
 
 
