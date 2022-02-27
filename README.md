@@ -8,7 +8,10 @@
  #
 #     ![image](https://user-images.githubusercontent.com/89514486/155832681-6ddd535a-b5e7-490b-b4cc-80cda8c16cde.png)
 
-  ![image](https://user-images.githubusercontent.com/89514486/155833056-67b17cb2-245e-4659-8e87-7b899fcc8b4a.png)
+   <a href="https://github.com/Kumarsanjeet1/DevOps/blob/master/Computer%20Networking.md">
+         <img alt="Computer Network" src="https://user-images.githubusercontent.com/89514486/155833056-67b17cb2-245e-4659-8e87-7b899fcc8b4a.png">  </a>
+         
+         
 
 
 
