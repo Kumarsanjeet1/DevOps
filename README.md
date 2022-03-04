@@ -14,7 +14,7 @@
          <img alt="Computer Network" src="https://user-images.githubusercontent.com/89514486/155833056-67b17cb2-245e-4659-8e87-7b899fcc8b4a.png">  </a>
          
          
-
-
+   <a href="https://github.com/Kumarsanjeet1/DevOps/blob/master/Linux%20and%20Terminal%20commands.md">
+         <img alt="Linux and Terminal Commands" src="https://user-images.githubusercontent.com/89514486/156720829-8bc95aac-c025-421c-8e7e-14808a99b3bf.png">  </a>
 
 
