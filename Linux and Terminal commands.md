@@ -3,6 +3,10 @@
  Example- Command "mkdir demo"- From this command we can create a new demo folder.  
 #  Shell
  - Shell is a Command line interface that will interpret our Commands and convert those and tell the Operating System, What to do.
+
+#  Environment Variable
+  -An environment variable is a "Dynamic-Named Value That Can Affect The Way Running Process Will behave On a Computer". Also we have set the Variable name before using it.
+
 #  Linux & Terminal Command
  -  ![image](https://user-images.githubusercontent.com/89514486/156747336-bfda4884-e39d-4e4f-bed9-6069b6919ae6.png)
            
@@ -16,9 +20,13 @@
     It is for basically creating a new folder in home directory.
     
  - ![image](https://user-images.githubusercontent.com/89514486/156866670-2846c437-d8bd-4453-93fc-d2a2ed6d08d9.png)
- - 
+ 
     It is for changing the home directory to given folderName/path
  - ![image](https://user-images.githubusercontent.com/89514486/156866700-9bdf11b0-2d1a-4456-b018-ff08da1944e3.png)
  
     It is used to go one folder back from your current directory
- - 
+ - ![image](https://user-images.githubusercontent.com/89514486/156867236-bdbdd37a-dd3e-42f8-8cf3-2cc338a8dc59.png)
+ 
+    It is used to display what do you want to display.
+    Example- ~echo $path
+              This command is used to display all directories specified by path in the environment variable.
