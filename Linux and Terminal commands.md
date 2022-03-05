@@ -10,4 +10,15 @@
  - ![image](https://user-images.githubusercontent.com/89514486/156747456-0759f75f-9153-42e5-a3de-1f6e17dec6c3.png)
            
       ls Command Stands for List (basically "ls" command is displaying all the folder and file in the paticular folder where will you run the command)
- - ~
+      
+ - ![image](https://user-images.githubusercontent.com/89514486/156866629-9b80e303-9dd2-4cbe-bcec-2ad3a00b80af.png)
+ 
+    It is for basically creating a new folder in home directory.
+    
+ - ![image](https://user-images.githubusercontent.com/89514486/156866670-2846c437-d8bd-4453-93fc-d2a2ed6d08d9.png)
+ - 
+    It is for changing the home directory to given folderName/path
+ - ![image](https://user-images.githubusercontent.com/89514486/156866700-9bdf11b0-2d1a-4456-b018-ff08da1944e3.png)
+ 
+    It is used to go one folder back from your current directory
+ - 
