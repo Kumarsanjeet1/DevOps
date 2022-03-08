@@ -30,3 +30,27 @@
     It is used to display what do you want to display.
     Example- ~echo $path
               This command is used to display all directories specified by path in the environment variable.
+              
+  - pwd
+    Stands for "Print working directory", Basically pwd command is print/display the path directory,where are you working from.
+ 
+ - ls (list directory contents)
+    
+        lists tags-
+        - ls -a (It is display the all files including hidden files)
+        - ls -l (It is display the file with long details)
+        - ls -al (It is display the all the files including hidden files with long detatils)
+        - ls -R ( It will display the all files also in sub-directory)
+        - 
+        - 
+    
+ - cd (Change Directory)
+ - cd .. ( Change path directory one step back)
+ 
+ - cat (Concatenate files to standard Output)
+             
+         - cat > name.txt (creating a new file)
+               Hi, My name is sanjeet.
+         - cat name.txt  (display the information or data in it)
+   
+ 
