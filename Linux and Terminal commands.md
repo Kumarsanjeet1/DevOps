@@ -88,6 +88,16 @@
       •
 - rename  (renames files)
 - sudo    (Super User do- execute a command as another user, for executing commands you have to enter User Account PASSWORD )
-- 
-- 
+- vi (vim) (A programer text editor)
+- head (output the first part of files)
+  
+        Tags-
+           •head -n "files name"  (print n lines from start line of files)
+           •
+- tail (output the last part of files)
+         
+        Tags-
+           •tail -n "files name"  (print n lines from last line of files)
+           •
+- diff (compare file line by line)
 - 
