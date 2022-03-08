@@ -46,12 +46,12 @@
         •
         • 
     
- - cd (Change Directory)
+ - cd       (Change Directory)
               
             • cd .. ( Change path directory one step back)
              
  
- - cat (Concatenate files to standard Output)
+ - cat     (Concatenate files to standard Output)
              
          • cat > name.txt    (creating a new file)
                Hi, My name is sanjeet,    (cntrl + c   to save the file)
@@ -66,4 +66,28 @@
          • cat greet.txt    (It will display the data of greet.txt file)
          • cat greet.txt | tr a-z A-Z >upper.txt (
          
- 
+- df      (report file system disk space usage)
+
+      •df -h (report file system disk space usage in human readable format)
+- du      (estimate file space usage)
+     
+      •du -h ( display size in human readable format )
+     
+      
+- mv      (move (rename) files)
+- cp      (copy files and directores of existing files or directories)
+
+      • cp -R   (cp will continue copy even if errors are detected)
+      • cp -f   (cp      
+- rm      (remove files or directories)
+           
+      Tags-
+      •rm -d  (remove empty directories)
+      •rm -R  (rm will continue remove even if errors are detected)
+      •rm -f  (To remove files or directories forcefully)
+      •
+- rename  (renames files)
+- sudo    (Super User do- execute a command as another user, for executing commands you have to enter User Account PASSWORD )
+- 
+- 
+- 
