@@ -100,4 +100,38 @@
            •tail -n "files name"  (print n lines from last line of files)
            •
 - diff (compare file line by line)
-- 
+- locate (for Finding Files)
+- find ( It is basically used to listing me the files or directories)
+
+       Tags-
+      • find .  (listing me files or directories in the current directory)
+
+      • find .. (listing me files or directories in the previous directory)
+
+      • find . -type d  (listing me only directories in the current directory)
+
+      • find .. -type d  (listing me only directories in the previous directory)
+
+      • find . -type f  (listing me only files in the current directory)
+
+      • find . -type f -name "name.txt" (This command is finding the file through name "name.txt" in the current directory)
+
+      • find . -type f -name "two*" (This command is finding the (* means can anything come over here) file using * name)
+
+      • find . -type f -name "*.txt" (This command will listed only those file, whose file extension name will ".txt")
+
+      • find . -type f -mmin -20 (This command is basically used to listing the all the files that were modified less than 20 minutes ago)
+
+      • find . -type f -mmin +14 (This command is basically used to listing the all files that were modified more than 14 minutes ago)
+
+      • find . -type f -mmin +2 -mmin -10 (This command is used to listing all files that were modified more than 2 minutes ago and under 10 minutes ago) 
+
+      • find . -type f -mtime -10 (This command is used to listing all the files that were modified less than 10 days ago)
+      •
+      •
+      •
+      •
+      •
+      •
+      •
+      •
