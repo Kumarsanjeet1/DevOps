@@ -5,7 +5,7 @@
  - Shell is a Command line interface that will interpret our Commands and convert those and tell the Operating System, What to do.
 
 #  Environment Variable
-  -An environment variable is a "Dynamic-Named Value That Can Affect The Way Running Process Will behave On a Computer". Also we have set the Variable name before using it.
+  - An environment variable is a "Dynamic-Named Value That Can Affect The Way Running Process Will behave On a Computer". Also we have set the Variable name before using it.
 
 #  Linux & Terminal Command
  -  ![image](https://user-images.githubusercontent.com/89514486/156747336-bfda4884-e39d-4e4f-bed9-6069b6919ae6.png)
