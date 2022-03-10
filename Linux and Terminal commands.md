@@ -127,11 +127,8 @@
       • find . -type f -mmin +2 -mmin -10 (This command is used to listing all files that were modified more than 2 minutes ago and under 10 minutes ago) 
 
       • find . -type f -mtime -10 (This command is used to listing all the files that were modified less than 10 days ago)
-      •
-      •
-      •
-      •
-      •
-      •
-      •
-      •
+      • find . -type f -maxdepth 1 (This command is used to listing all the files of current directory, Here Not be listing files of sub directory)
+
+      • find . -size +1k (This command is used to listing all files that the size of files more than 1kb)
+
+      • find . -empty (This command is used to listing those files which files are empty)
